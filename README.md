@@ -4,8 +4,8 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=KaiquePortoSantos&show_icons=true&theme=radical&include_all_commits=true"
-    media="(prefers-color-scheme: radical)"
+    srcset="https://github-readme-stats.vercel.app/api?username=KaiquePortoSantos&show_icons=true&theme=radical"
+    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
@@ -13,7 +13,6 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="kaique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

@@ -13,6 +13,16 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+ <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiquePortoSantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+  
+<br>
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="kaique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,12 +36,6 @@
   <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiquePortoSantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+ 
 
   
